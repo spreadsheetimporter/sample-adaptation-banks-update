@@ -1,0 +1,37 @@
+{
+  "fileName": "id_1739737910294_302_addXML",
+  "fileType": "change",
+  "changeType": "addXML",
+  "moduleName": "customer/app/variant1/changes/fragments/excelupload.fragment.xml",
+  "reference": "customer.app.variant1",
+  "packageName": "$TMP",
+  "content": {
+    "targetAggregation": "actions",
+    "index": 0,
+    "fragmentPath": "fragments/excelupload.fragment.xml"
+  },
+  "selector": {
+    "id": "bf.bk.bank.manage::BankList--fe::table::Bank::LineItem",
+    "idIsLocal": false
+  },
+  "layer": "CUSTOMER_BASE",
+  "texts": {},
+  "namespace": "apps/bf.bk.bank.manage/adapt/customer.app.variant1/changes/",
+  "projectId": "customer.app.variant1",
+  "creation": "2025-02-16T20:32:10.942Z",
+  "originalLanguage": "EN",
+  "support": {
+    "generator": "@sap-ux/control-property-editor",
+    "service": "",
+    "user": "",
+    "sapui5Version": "1.108.38",
+    "sourceChangeFileName": "",
+    "compositeCommand": "",
+    "command": "addXML"
+  },
+  "oDataInformation": {},
+  "dependentSelector": {},
+  "jsOnly": false,
+  "variantReference": "",
+  "appDescriptorChange": false
+}

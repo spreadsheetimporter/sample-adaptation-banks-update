@@ -1,0 +1,23 @@
+{
+  "changeType": "codeExt",
+  "reference": "customer.app.variant1",
+  "namespace": "apps/customer.app.variant1/changes/",
+  "projectId": "customer.app.variant1",
+  "moduleName": "customer/app/variant1/changes/coding/excelupload",
+  "support": {
+    "generator": "rta.service.ControllerExtension",
+    "sapui5Version": "1.108.38"
+  },
+  "originalLanguage": "EN",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "change",
+  "fileName": "id_1739738846967_290_codeExt",
+  "content": {
+    "codeRef": "coding/excelupload.js"
+  },
+  "texts": {},
+  "selector": {
+    "controllerName": "sap.fe.templates.ListReport.ListReportController"
+  },
+  "creation": "2025-02-16T20:47:26.968Z"
+}

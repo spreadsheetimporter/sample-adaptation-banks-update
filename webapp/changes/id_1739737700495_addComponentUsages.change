@@ -1,0 +1,23 @@
+{
+  "fileName": "id_1739737700495",
+  "namespace": "apps/bf.bk.bank.manage/appVariants/customer.app.variant1/changes",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "change",
+  "creation": "2025-02-16T20:28:20.495Z",
+  "packageName": "$TMP",
+  "reference": "customer.app.variant1",
+  "support": {
+    "generator": "@sap-ux/adp-tooling"
+  },
+  "changeType": "appdescr_ui5_addComponentUsages",
+  "content": {
+    "componentUsages": {
+      "customer.upload": {
+        "name": "cc.spreadsheetimporter.v1_7_3",
+        "lazy": false,
+        "settings": {},
+        "componentData": {}
+      }
+    }
+  }
+}
